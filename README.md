@@ -29,10 +29,10 @@ Now I am open to collaborations and offers❗️
 
 <h2 align="center">Projects</h3>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Elostay&repo=portfolio-anastasiia-motsukh&theme=dracula)](https://github.com/Elostay/portfolio-anastasiia-motsukh)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lizaklimova&repo=task-pro&theme=dracula)](https://github.com/lizaklimova/task-pro)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Elostay&repo=Psychologists&theme=dracula)](https://github.com/Elostay/Psychologists)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elostay&repo=goit-react-hw-08-phonebook&theme=dracula)](https://github.com/Elostay/goit-react-hw-08-phonebook)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=konstantin-it-lysenko&repo=projectDreamTeamJS&theme=dracula)](https://github.com/konstantin-it-lysenko/projectDreamTeamJS)
 
 <h2 align="center">My statistics</h3>
 
